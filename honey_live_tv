@@ -3,14 +3,11 @@
    "msg":"",
    "onback_adshow":"1",
    "data":{
-            "id": 9,
-            "user_id": 9,
-            "title": "for",
-            "description": "Stack Overflow for Teams – Start collaborating and sharing organizational knowledge.",
-            "image": "content/travel_moments/55343818890094992983.kfinkart.png",
-            "status": "1",
-            "created_at": "2023-03-17T04:41:00.000Z",
-            "latitude": null,
-            "longitude": null
-          }
+         "Interstitial1":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
+         "Interstitial2":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
+         "Interstitial3":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
+         "Interstitial_exit":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
+         "Native1":"IMG_16_9_APP_INSTALL#3011693982286504_3011695365619699",
+         "NativeBanner1":"IMG_16_9_APP_INSTALL#230807221472038_474481330437958"
+        }
 }
