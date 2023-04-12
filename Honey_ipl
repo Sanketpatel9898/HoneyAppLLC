@@ -1,0 +1,33 @@
+{
+"STATUS":true,
+   "MSG":"",
+   "onback_adshow":"1",
+   "APP_SETTINGS":{
+      "app_privacyPolicyLink":"",
+      "app_adShowStatus":"1",
+   },
+   "PLACEMENT":{
+       
+          "Facebookaudiencenetwork":{
+         "ad_showAdStatus":"1",
+         "Banner1":"",
+         "Interstitial1":"3501160783544473_3505057849821433",
+         "Interstitial2":"3501160783544473_3505058006488084",
+         "Interstitial3":"3501160783544473_3505057849821433",
+         "Interstitial4":"3501160783544473_3505058156488069",
+                  
+         "Interstitial_exit":"3501160783544473_3505058346488050",
+         "Interstitial_exit1":"3501160783544473_3505058499821368",
+         "Interstitial_exit2":"3501160783544473_3505058726488012",  
+         "Interstitial_exit3":"3501160783544473_3505058726488012",
+         "Interstitial_exit4":"3501160783544473_3505058499821368",
+      
+                              
+         "Native1":"3501160783544473_3505058979821320",
+         "NativeBanner1":"3501160783544473_3505059186487966"
+     
+      }
+       
+     
+   }
+   }
