@@ -1,5 +1,5 @@
 {
-   "STATUS":false,
+   "STATUS":true,
    "MSG":"",
    "onback_adshow":"",
    "APP_SETTINGS":{
@@ -41,6 +41,13 @@
          "Native1":"3501160783544473_3505058979821320",
          "NativeBanner1":"3501160783544473_3505059186487966"
      
+      }
+      ,
+       "applovin":{
+         "ad_showAdStatus":"",
+          "applovin_intretial":"",
+            "applovin_baner":"",
+              "applovin_native":""
       }
    }
    }
