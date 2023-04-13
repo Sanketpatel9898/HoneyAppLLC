@@ -5,7 +5,7 @@
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
       "app_adShowStatus":"1",
-       "applovin_fberrorshow":""
+       "applovin_fberrorshow":"1"
    },
    "PLACEMENT":{
        
