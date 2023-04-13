@@ -44,10 +44,11 @@
       }
       ,
        "applovin":{
-         "ad_showAdStatus":"",
-          "applovin_intretial":"",
-            "applovin_baner":"",
-              "applovin_native":""
+         "ad_showAdStatus":"1",
+          "applovin_intretial":"7b9415e266c97f22",
+            "applovin_baner":"ef3e0ddde39cd8f3",
+              "applovin_native":"a58b2d29353f38e5",
+              "applovin_native1":"da934c3f98a7624a"
       }
    }
    }
