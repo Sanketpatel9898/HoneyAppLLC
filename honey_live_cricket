@@ -47,7 +47,7 @@
       }
       ,
        "applovin":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
           "applovin_intretial":"7b9415e266c97f22",
             "applovin_baner":"ef3e0ddde39cd8f3",
               "applovin_native":"a58b2d29353f38e5",
