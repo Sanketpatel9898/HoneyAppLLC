@@ -1,11 +1,11 @@
 {
-   "STATUS":false,
+   "STATUS":true,
    "MSG":"",
-   "onback_adshow":"",
+   "onback_adshow":"1",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
-      "app_adShowStatus":"",
-       "applovin_fberrorshow":""
+      "app_adShowStatus":"1",
+       "applovin_fberrorshow":"1"
    },
    "PLACEMENT":{
        
@@ -47,7 +47,7 @@
       }
       ,
        "applovin":{
-         "ad_showAdStatus":"",
+         "ad_showAdStatus":"1",
           "applovin_intretial":"7b9415e266c97f22",
             "applovin_baner":"ef3e0ddde39cd8f3",
               "applovin_native":"a58b2d29353f38e5",
